@@ -10,3 +10,6 @@ To execute R scripts, you will need the free software R (https://www.r-project.o
 # Disclaimer
 Anyone can use these tools at their own risk. The tools have only been verified by the author and may contain errors.
 Please send me any feedback that helps improve any of these tools!
+
+# Tools available
+GDX_to_MRIOT: This script parses gdx files from gtapinGAMS (http://www.mpsge.org/gtap6/) and builds multi-regional input-output tables
